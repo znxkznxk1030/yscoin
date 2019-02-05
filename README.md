@@ -4,6 +4,13 @@
 
 ![start](./console-shot/start.png)
 
+## what's different from other block-chain tutorials
+
+- I know that tons of tutorials for building a simple block-chain just like this project are already existed all around github or blogs. but I couldn't find a single project with tests for a p2pkh script (even though they made a sort of this but not work!), and actual exchange in a chain. 
+- but this project is well-tested. that's why I made this project.
+
+- github 에 많은 block chain 튜토리얼이 있지만, 실제로 tx가 처리되는 과정(p2pkh) 을 테스트 하는 것까지 구현되어있는 경우가 드물다. but 이것은 실제 테스트까지 이루져있다.
+
 ## Install
 
 if you don't have npm (node package manager), should install npm first.
