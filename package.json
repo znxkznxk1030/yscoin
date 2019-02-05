@@ -1,0 +1,24 @@
+{
+  "name": "yscoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "buffer-from": "^1.1.1",
+    "crypto": "^1.0.1",
+    "ripemd160": "^2.0.2",
+    "secp256k1": "^3.5.2",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "json-beautify": "^1.0.1"
+  }
+}
