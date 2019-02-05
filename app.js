@@ -3,9 +3,9 @@ const { Chain } = require('./chain/chain');
 const { Miner } = require('./miner/miner');
 
 
-let client1 = new Wallet('youngsoo');
-let client2 = new Wallet('jeayoung');
-let client3 = new Wallet('teajin');
+let client1 = new Wallet('tiger');
+let client2 = new Wallet('lion');
+let client3 = new Wallet('penguin');
 
 let miner_clt1 = new Miner(client1);
 let miner_clt2 = new Miner(client2);
