@@ -1,8 +1,9 @@
 # YS coin
 
-- A Simple block-chain project contains POW (proof of work) mechanism, Transaction exchange algorithm(use secp256k1)
+- A Simple block-chain project contains POW (proof of work) mechanism, Transaction exchange algorithm(use secp256k1
 
-![start](./console-shot/start.png)
+## blog
+1. https://arthur.tistory.com/2
 
 ## what's different from other block-chain tutorials
 
@@ -59,3 +60,5 @@ npm start
     "sha256": "^0.2.0"
 }
 ```
+## How it looks like
+![start](./console-shot/start.png)
